@@ -9,4 +9,4 @@ Robot Pi Project
 5. Wheels and Chassis 
 6. Ultasonic Sensors
 
-![GPIO PINS SETUP](https://pi4j.com/1.2/images/j8header-3b-plus.png)
+![GPIO PINS SETUP](https://pi4j.com/1.2/images/j8header-zero.png)
